@@ -673,7 +673,7 @@ body {
 /* 썸네일 슬라이더 */
 .swiper-container.gallery-thumbs-main {
     position: absolute;
-    left: 130px;
+    left: 160px;
     bottom: 40px;
     width: 580px;
     height: auto;
